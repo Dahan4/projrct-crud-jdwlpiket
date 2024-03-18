@@ -132,7 +132,7 @@ include "koneksi.php"
                
                 <div class="modal-footer">
                  <button type="submit" class="btn btn-primary" name="bedit">Edit</button>
-                 <button type="submit" class="btn btn-danger" data-bs-dismiss="modal">Cancel</button>
+                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Cancel</button>
                 </div>
               </form>
             </div>
@@ -162,7 +162,7 @@ include "koneksi.php"
                
                 <div class="modal-footer">
                  <button type="submit" class="btn btn-primary" name="bhapus">Hapus</button>
-                 <button type="submit" class="btn btn-danger" data-bs-dismiss="modal">Cancel</button>
+                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Cancel</button>
                 </div>
               </form>
             </div>
@@ -233,7 +233,7 @@ include "koneksi.php"
 
            <div class="modal-footer">
             <button type="submit" class="btn btn-primary" name="bsimpan">Simpan</button>
-            <button type="submit" class="btn btn-danger" data-bs-dismiss="modal">Cancel</button>
+            <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Cancel</button>
           </div>
         </form>
       </div>
